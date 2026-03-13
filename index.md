@@ -1,8 +1,7 @@
 ---
 layout: home
-title: "Inthepiepline"
-description: "You play with the cards you're dealt."
+title: "塊善"
+description: ""
 ---
 
-## Contents
-* [Commegresh](https://inthepiepline.github.io/commegresh/){:target="_blank" rel="noopener"}
+**塊れば善くなる。**
