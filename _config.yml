@@ -1,7 +1,0 @@
-title: "KAI-ZEN"
-description: ""
-# remote_theme: jekyll/minima
-theme: minima
-header_pages:
-  - index.md
-favicon_path: "/images/favicon.png"
